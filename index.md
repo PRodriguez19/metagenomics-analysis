@@ -53,7 +53,7 @@ research efficiency and productivity.
 
 {% include links.md %}
 
-This is the fourth lesson of the [Metagenomics Workshop](https://carpentries-lab.github.io/metagenomics-workshop/), comprising four lessons in total. 
+This is the fourth lesson of the [Metagenomics Workshop](https://prodriguez19.github.io/metagenomics-workshop/), comprising four lessons in total. 
 
 ## Citation
 
